@@ -1,0 +1,24 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Jeoston",
+	"description": "Back End Development ad APIs",
+	"keywords": [
+		"Back End",
+		"APIs",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "2.14.0",
+	"package": "^2.10.2",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
